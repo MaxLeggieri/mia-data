@@ -1,9 +1,17 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-21T15:08:28+02:00",
+  "generatedAt": "2026-10-21T23:18:51+02:00",
   "validFrom": "2026-10-22",
   "days": 7,
   "url": "timetable.json.gz",
-  "bytes": 97188,
-  "sha256": "633c21bb3f42c193f167af82c10969a657ce04d918f30ffb60fb90c116882a02"
+  "bytes": 123952,
+  "sha256": "efef77d1edf152f4e2b485d1b40a5bd2b2440f741b4bfa7486b68c9eeb8e27b3",
+  "walk": {
+    "format": 1,
+    "generatedAt": "2026-10-21T21:21:10Z",
+    "url": "walk.bin.gz",
+    "bytes": 2491801,
+    "sha256": "16c8612752d893e555dbbe147c85a742025018118d5e6e501122cfb0811f1748",
+    "attribution": "© OpenStreetMap contributors, ODbL"
+  }
 }
