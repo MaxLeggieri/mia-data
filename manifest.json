@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-13T10:49:10+01:00",
-  "validFrom": "2026-11-13",
+  "generatedAt": "2026-11-14T10:10:22+01:00",
+  "validFrom": "2026-11-14",
   "days": 7,
   "url": "timetable.json.gz",
-  "bytes": 146854,
-  "sha256": "9a12edd4f6a7cdb8f79f945227fcd705d9d1f72d5eb07f40f74220bde7f734cd",
+  "bytes": 146852,
+  "sha256": "d4c0100d598f5ab253fab25739d04b64e8b06042aa04e7cc1dbfa2813c99558f",
   "walk": {
     "format": 1,
     "generatedAt": "2026-11-08T09:16:34Z",
