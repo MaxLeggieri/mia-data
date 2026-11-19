@@ -1,33 +1,33 @@
 {
   "format": 1,
-  "checkedAt": "2026-11-18T17:14:04+01:00",
+  "checkedAt": "2026-11-19T17:21:22+01:00",
   "lines": {
     "6/": {
       "result": "ok",
-      "decidedAt": "2026-11-18T17:14:04+01:00",
+      "decidedAt": "2026-11-19T17:21:22+01:00",
       "last": {
         "result": "ok",
-        "checks": 39,
+        "checks": 37,
         "mismatches": 0,
         "examples": []
       }
     },
     "R": {
       "result": "ok",
-      "decidedAt": "2026-11-18T17:14:04+01:00",
+      "decidedAt": "2026-11-19T17:21:22+01:00",
       "last": {
         "result": "ok",
-        "checks": 19,
+        "checks": 23,
         "mismatches": 0,
         "examples": []
       }
     },
     "PE-PN": {
       "result": "ok",
-      "decidedAt": "2026-11-18T17:14:04+01:00",
+      "decidedAt": "2026-11-19T17:21:22+01:00",
       "last": {
         "result": "ok",
-        "checks": 4,
+        "checks": 6,
         "mismatches": 0,
         "examples": []
       }
